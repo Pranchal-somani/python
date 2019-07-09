@@ -1,4 +1,4 @@
-#this is phthon repository
+#this is python repository
 ## basic python code 
-### use pyhton version 3.7 and jupyter notebook
+### created by using pyhton version 3.7 and jupyter notebook
 
